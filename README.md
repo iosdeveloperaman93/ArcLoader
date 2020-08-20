@@ -2,7 +2,7 @@
 
 // Copyright (c) 2020 Aman Gangurde
 
-![Alt Text] (https://github.com/iosdeveloperaman93/ArcLoader/blob/master/ArcLoader/ArcLoader/Example/image.png)
+![Example Image](https://github.com/iosdeveloperaman93/ArcLoader/blob/master/ArcLoader/ArcLoader/Example/image.png)
 
 ```Example :
 
