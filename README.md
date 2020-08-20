@@ -11,9 +11,9 @@ let frame = CGRect(x: (self.view.frame.size.width / 2) - 30, y: (self.view.frame
 activityIndicatorView = ArcLoader(frame: frame, type: .arcAnimation)
 self.view.addSubview(activityIndicatorView!)
 
-//start loader
+//start loader :- 
 activityIndicatorView?.startAnimating()
 
-//stop loader
+//stop loader :- 
 activityIndicatorView?.stopAnimating()
 
