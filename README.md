@@ -2,8 +2,9 @@
 
 // Copyright (c) 2020 Aman Gangurde
 
+![GitHub Logo](/images/logo.png)
 
-//Example :
+```Example :
 
 var activityIndicatorView : ArcLoader?
 
@@ -11,9 +12,9 @@ let frame = CGRect(x: (self.view.frame.size.width / 2) - 30, y: (self.view.frame
 activityIndicatorView = ArcLoader(frame: frame, type: .arcAnimation)
 self.view.addSubview(activityIndicatorView!)
 
-//start loader :- 
+- [x] start loader
 activityIndicatorView?.startAnimating()
 
-//stop loader :- 
+- [x] stop loader
 activityIndicatorView?.stopAnimating()
 
