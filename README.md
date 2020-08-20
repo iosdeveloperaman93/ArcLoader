@@ -3,7 +3,7 @@
 // Copyright (c) 2020 Aman Gangurde
 
 
-//Example
+//Example :
 
 var activityIndicatorView : ArcLoader?
 
